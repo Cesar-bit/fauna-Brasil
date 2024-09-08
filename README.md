@@ -8,6 +8,7 @@
 **Como funciona?**
 
 1. **Digite o nome do animal:** Na barra de pesquisa, digite o nome do animal que você quer conhecer.
+EX: Os animais registrado neste projeto são: Boto cor de rosa, Mico leão dourado, Arara Azul, Jaguatirica, Sucuri, Capivara, Ariranha, Lobo Guara, Tucano Toco, Papagaio.
 2. **Explore os resultados:** A mágica acontece! Uma lista com os animais que correspondem à sua pesquisa aparecerá, com informações detalhadas sobre cada um.
 
 **Tecnologias utilizadas:**
